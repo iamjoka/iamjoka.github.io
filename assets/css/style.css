@@ -41,6 +41,10 @@ float: left;
 margin-right:25px;
 margin-bottom:25px;
 }
+.photo>a>img{
+  width: 134px;
+  height: 134px;
+}
 .box-photoset{
 max-width:960px;
 margin: 0 auto;
